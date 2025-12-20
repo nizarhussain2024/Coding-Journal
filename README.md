@@ -304,3 +304,12 @@ make clean      # Remove .class files
 - [ ] Create study plan
 - [ ] Add interview tips
 - [ ] Link to LeetCode/HackerRank
+
+## AI/NLP Capabilities
+
+This project includes AI and NLP utilities for:
+- Text processing and tokenization
+- Similarity calculation
+- Natural language understanding
+
+*Last updated: 2025-12-20*
